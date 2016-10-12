@@ -1,0 +1,2 @@
+# emergencyRoom
+This program implements the scheduling of patients in an Emergency     Room by using a Priority Queue as required in the Project 5 PDF file and follows     all directions and instructions. This program is menu driven with the options     to check in a patient, attend the next patient, output a list of patients that     have been attended based on priority and an option to end the program. Patient     data is placed onto the Priority Queue based on urgency. The patient with highest     urgency gets attended next.
